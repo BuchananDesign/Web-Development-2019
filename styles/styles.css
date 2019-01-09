@@ -1,12 +1,36 @@
-body{
-  background-color: black;
+/**--------Text Styles-------**/
+* {
+  box-sizing: border-box;
 }
 
-/**--------Text Styles-------**/
+
+
+.navigation {
+  margin: auto;
+  width: 100%;
+}
+
+
+
+.navigation a {
+  text-align: center;
+  font-size: 2em;
+  padding-right: 10px
+}
+
+
+
+body{
+  background-color: white;
+}
+
+
 
 h1 {
-  color : green;
+  color : black;
 }
+
+
 
 p {
   font-family: "Roboto", sans-serif;
