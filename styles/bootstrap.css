@@ -33,6 +33,9 @@
    font-family: "Roboto", sans-serif;
  }
 
+table{
+  border: solid 4px black;
+}
 /**--------Bootstrap-------**/
 :root {
   --blue: #007bff;
