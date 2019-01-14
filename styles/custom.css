@@ -1,0 +1,48 @@
+.navbar-expand-lg {
+  background: #153251;
+}
+
+.nav-link, .navbar-brand {
+  color: #f4f4f4;
+  cursor: pointer;
+}
+
+.navbar-brand:hover {
+  color: #f4f4f4;
+}
+
+.nav-link {
+  margin-right: 1em !important;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+.navbar-toggler {
+  background: #fff !important;
+}
+
+.navbar-nav .nav-link {
+  padding-left:1em !important
+}
+
+.content {
+
+}
+
+.information {
+
+}
+
+h4 {
+  text-decoration: underline;
+}
+
+html {
+  overflow-y: scroll;
+}
+
+body {
+  padding-left: 2em;
+}
