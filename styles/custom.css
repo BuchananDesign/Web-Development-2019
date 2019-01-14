@@ -8,7 +8,7 @@
 }
 
 .navbar-brand:hover {
-  color: #f4f4f4;
+  color: #ffffff;
 }
 
 .nav-link {
@@ -19,16 +19,13 @@
   justify-content: flex-end;
 }
 
-.navbar-toggler {
-  background: #fff !important;
-}
-
 .navbar-nav .nav-link {
-  padding-left:1em !important
+  padding-left:1em !important;
 }
 
 .content {
-
+  margin-left: 8%;
+  padding-right: 2em;
 }
 
 .information {
@@ -48,5 +45,5 @@ html {
 }
 
 body {
-  padding-left: 2em;
+
 }
