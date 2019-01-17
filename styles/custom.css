@@ -2,7 +2,8 @@
   background: #153251;
 }
 
-.nav-link, .navbar-brand {
+.nav-link,
+.navbar-brand {
   color: #f4f4f4;
   cursor: pointer;
 }
@@ -24,15 +25,13 @@
 }
 
 .navbar-nav .nav-link {
-  padding-left:1em !important
+  padding-left: 1em !important;
 }
 
 .content {
-
 }
 
 .information {
-
 }
 
 h1 {
