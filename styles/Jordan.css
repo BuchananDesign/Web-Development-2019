@@ -1,36 +1,29 @@
 /**--------Text styles--------**/
 
 p {
-  font-family: "Roboto", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 1.25rem;
+  color: #1F2041;
 }
 
 h1 {
-  font-family: "Roboto", sans-serif;
+  font-family: "Lora", sans-serif;
+  color: #1F2041;
 }
 
-h2 {
-  font-family: "Roboto", sans-serif;
-}
-
-h3 {
-  font-family: "Roboto", sans-serif;
-}
-
-h4 {
-  font-family: "Roboto", sans-serif;
-}
-
-h5 {
-  font-family: "Roboto", sans-serif;
-}
-
-h6 {
-  font-family: "Roboto", sans-serif;
+h2, h3, h4, h5, h6 {
+  font-family: "Lato", sans-serif;
+  color: #1F2041;
 }
 
 li {
-  font-family: "Roboto", sans-serif;
+  font-family: "Lato", sans-serif;
+  color: #1F2041;
+}
+
+a {
+  font-family: "Lato", sans-serif;
+  color: #1F2041;
 }
 
 /**--------Backgrounds and images -----------**/
