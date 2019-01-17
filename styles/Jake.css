@@ -1,0 +1,17 @@
+.name {
+    color: darkblue;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+    letter-spacing: 3px;
+}
+.textbox1 {
+    font-family: 'Slabo 27px', serif;
+    color: darkblue;
+    text-decoration-line: underline;
+}
+.textbox2 {
+    font-family: 'Slabo 27px', serif;
+    color: darkblue;
+    text-align: right;
+    text-decoration-line: underline;
+}
